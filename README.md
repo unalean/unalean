@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @unalean
+- 👋 Hi, I’m Una Lean @unalean
 - 👀 Python | data science | machine learning | APIs | meteorological applications
 
 <!---
